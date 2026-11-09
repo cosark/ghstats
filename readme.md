@@ -68,6 +68,10 @@ services:
 
 The database is stored in `/app/data/ghstats.db` (`DB_PATH` changes it).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/ghstats/)
+
 ## Why ghstats?
 
 - **Own your history**: keep traffic data for months or years instead of losing it
